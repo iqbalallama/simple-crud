@@ -9,7 +9,16 @@ main{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 150px;
+    margin-top: 100px;
+}
+h2{
+    font-size: 48px;
+    text-align: center;
+    /* color: cadetblue; */
+    color: darkcyan;
+}
+span{
+    color:coral;
 }
 label{
     font-size: 24px;
